@@ -1,0 +1,35 @@
+{
+  "name": "sendflow-api-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill for the SendFlow SendAPI — REST API for SendFlow's Brazilian WhatsApp automation platform (44 endpoints across campaigns, groups, messages, accounts, templates, block lists)",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "sendflow",
+    "sendapi",
+    "sendi",
+    "whatsapp",
+    "automation",
+    "marketing",
+    "brazil"
+  ],
+  "homepage": "https://github.com/kauaalmeida/sendflow-api-skill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kauaalmeida/sendflow-api-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kauaalmeida/sendflow-api-skill/issues"
+  },
+  "author": "kauaalmeida",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "reference.md",
+    "examples.md",
+    "docs-pt-br.md",
+    "swagger.json",
+    "clients/"
+  ]
+}
