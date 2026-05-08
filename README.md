@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/og-image.png" alt="SendFlow" width="500" />
+</p>
+
 # SendFlow API Skill
 
 A [Claude Code](https://claude.com/claude-code) skill for the **SendFlow SendAPI** — the REST API for [SendFlow](https://sendflow.com.br) ("Sendi"), a Brazilian WhatsApp automation platform used by major Hotmart / V4 / Empiricus operators for launches, lead scoring, group management, and bulk messaging.
