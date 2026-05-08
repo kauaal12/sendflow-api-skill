@@ -2,13 +2,13 @@
 name: sendflow-sendapi
 description: SendFlow SendAPI integration for WhatsApp automation - send messages (text/image/video/audio), manage campaigns (releases), groups, accounts, message templates, and number blocks via REST API. Use when the user mentions sendflow, sendapi, sendi, "API do SendFlow", "disparar WhatsApp via API", "criar campanha sendi", "release groups", "lead scoring sendflow", or working with SendFlow's WhatsApp automation API for the Brazilian market.
 version: 1.0.0
-author: kauaalmeida
+author: kauaal12
 license: MIT
 metadata:
   hermes:
     tags: [WhatsApp, API, Marketing, Automation, Brazil, SendFlow, REST]
     related_skills: [whatsapp-cloud-api, evolution-api]
-    homepage: https://github.com/kauaalmeida/sendflow-api-skill
+    homepage: https://github.com/kauaal12/sendflow-api-skill
 ---
 
 # SendFlow SendAPI

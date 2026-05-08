@@ -17,7 +17,7 @@ When you mention `sendflow`, `sendapi`, `sendi`, or related terms in a Claude Co
 
 ### Option 1 — Plug-and-play `.zip`
 
-1. Download the latest [release zip](https://github.com/kauaalmeida/sendflow-api-skill/releases/latest/download/sendflow-api-skill.zip)
+1. Download the latest [release zip](https://github.com/kauaal12/sendflow-api-skill/releases/latest/download/sendflow-api-skill.zip)
 2. Unzip into your Claude Code skills folder:
 
    ```bash
@@ -31,13 +31,13 @@ When you mention `sendflow`, `sendapi`, `sendi`, or related terms in a Claude Co
 ### Option 2 — git clone
 
 ```bash
-git clone https://github.com/kauaalmeida/sendflow-api-skill ~/.claude/skills/sendflow-sendapi
+git clone https://github.com/kauaal12/sendflow-api-skill ~/.claude/skills/sendflow-sendapi
 ```
 
 ### Option 3 — npx skills
 
 ```bash
-npx skills add kauaalmeida/sendflow-api-skill
+npx skills add kauaal12/sendflow-api-skill
 ```
 
 ## API key setup

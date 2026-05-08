@@ -14,15 +14,15 @@
     "marketing",
     "brazil"
   ],
-  "homepage": "https://github.com/kauaalmeida/sendflow-api-skill",
+  "homepage": "https://github.com/kauaal12/sendflow-api-skill",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kauaalmeida/sendflow-api-skill.git"
+    "url": "https://github.com/kauaal12/sendflow-api-skill.git"
   },
   "bugs": {
-    "url": "https://github.com/kauaalmeida/sendflow-api-skill/issues"
+    "url": "https://github.com/kauaal12/sendflow-api-skill/issues"
   },
-  "author": "kauaalmeida",
+  "author": "kauaal12",
   "license": "MIT",
   "files": [
     "SKILL.md",
